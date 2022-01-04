@@ -517,11 +517,3 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 [MIT](/blob/master/LICENSE)
 
-## 💝 Buy Me A Coffee
-
-I am so happy that so many people like this project, and I will do better with your support.
-
-<p>
-  <img alt="reward" src="/public/wechat_reward_qrcode.jpg?raw=true" width="300">
-  <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-</p>
