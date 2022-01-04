@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img src="/demos/assets/logo_for_github.png?raw=true" alt="ElTiptap logo"></a></p>
+
 
 <p align="center">
   <img alt="npm" src="https://img.shields.io/npm/v/element-tiptap">
