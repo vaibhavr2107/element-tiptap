@@ -1,13 +1,4 @@
 
-
-<p align="center">
-  <img alt="npm" src="https://img.shields.io/npm/v/element-tiptap">
-  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date//element-tiptap">
-  <img alt="npm peer dependency version" src="https://img.shields.io/npm/dependency-version/element-tiptap/peer/vue?color=vue">
-  <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
-  <img alt="GitHub" src="https://img.shields.io/github/license//element-tiptap">
-</p>
-
 <h3 align="center">Element Tiptap Editor</h3>
 
 A WYSIWYG rich-text editor using [tiptap](https://github.com/scrumpy/tiptap) and [Element UI](https://github.com/ElemeFE/element) for Vue.js
